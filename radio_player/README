@@ -1,0 +1,21 @@
+This folder holds the podcast radio player.
+
+To run this program you will need the components below installed on your system:
+
+Python 3
+See: https://www.python.org/downloads/
+
+VLC Media PLayer Application
+See: https://www.videolan.org/vlc/
+
+Python 3 PyQt5 Library
+pip3 install PyQt5 --user
+
+Python 3 Requests Library
+pip install requests --user
+
+Python 3 VLC Bindings
+pip3 install python-vlc --user
+
+Execute the podcast radio player 
+podcast_player.py
